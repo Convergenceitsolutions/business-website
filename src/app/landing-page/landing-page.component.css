@@ -154,7 +154,7 @@
 .section-6 {
     padding-top: 3em;
     width: 100%;
-    height: 110vh;
+    height: 160vh;
     background-color: white;
 }
 
@@ -229,7 +229,7 @@
 
 .client-card, .partners-card{
     width: 17em;
-    height: 18em;
+    height: 17em;
     border: none;
     margin: 0.5em;
     background-color: transparent;
